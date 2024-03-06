@@ -29,7 +29,7 @@ public:
     }
 
     void bark(){
-        cout << "Bark" << endl;
+        cout << "Bark!" << endl;
         energy--;
     }
     void run(){
